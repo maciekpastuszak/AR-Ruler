@@ -1,3 +1,3 @@
 # AR-Ruler
 
-a Swift 4 app using augemented reality to measure distnace between two points
+A Swift 4 app using augmented reality to measure distance between two points.
